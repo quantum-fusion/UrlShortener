@@ -59,7 +59,7 @@ Use case tests.
 
 Command Line tests:
 
-curl -vX POST localhost:8080/https://www.google.pl/search?q=henry+hottelet
+curl -vX POST localhost:8080/https://www.google.pl/search?q=quantum+fusion
 
 curl -v localhost:8080/132b6aca
 
@@ -70,7 +70,7 @@ curl -v localhost:8080/293da879
 
 Browser tests:
 
-localhost:8080/https://www.google.pl/search?q=henry+hottelet
+localhost:8080/https://www.google.pl/search?q=quantum-fusion
 
 localhost:8080/132b6aca
 
@@ -82,7 +82,7 @@ localhost:8080/293da879
 
 REST Chrome Client tests:
 
-localhost:8080/https://www.google.pl/search?q=henry+hottelet
+localhost:8080/https://www.google.pl/search?q=quantum+fusion
 
 localhost:8080/132b6aca
 
