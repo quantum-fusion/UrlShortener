@@ -1,8 +1,4 @@
 
-Author: Henry Hottelet
-email: hottelet@gmail.com
-
-
 -Problem Description-----
 We'd like you to build a website that functions as a URL Shortener:
 
